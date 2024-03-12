@@ -1,0 +1,19 @@
+{
+  "name": "Aggressive Snake",
+  "description": "This is the aggressive behaviour for Snake",
+  "author": "Krarilotus",
+  "link": "https://github.com/Krarilotus/Vanilla-Retraced",
+  "version": "1.4.0",
+  "defaultLang": "de",
+  "supportedLang": ["de", "en"],
+  "switched": {
+    "binks": false,
+    "speech": false,
+    "aic": true,
+    "aiv": false,
+    "lord": true,
+    "startTroops": true,
+    "lines": false,
+    "portrait": false
+  }
+}

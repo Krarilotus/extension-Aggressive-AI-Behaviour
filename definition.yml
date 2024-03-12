@@ -1,0 +1,8 @@
+name: Aggressive-AI-Behaviour
+display-name: "Aggressive AI Behaviour"
+author: Krarilotus
+version: 1.4.0
+dependencies: 
+  aiSwapper: ^1.0.1
+  framework: ^3.0.0
+  frontend: ^1.0.0
