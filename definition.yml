@@ -12,8 +12,3 @@ tags:
 - behavior
 family:
 - name: aggressive-ai-behaviour
-capabilities:
-  files: true
-  code: false
-  configuration: false
-  options: false
