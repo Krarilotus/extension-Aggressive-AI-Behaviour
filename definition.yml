@@ -12,3 +12,4 @@ tags:
 - behavior
 family:
 - name: aggressive-ai-behaviour
+  root: true
