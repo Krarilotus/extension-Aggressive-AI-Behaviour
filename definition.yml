@@ -13,3 +13,6 @@ tags:
 family:
 - name: aggressive-ai-behaviour
   root: true
+  members:
+  - Aggressive-AI-Behaviour-Applied
+  default: Aggressive-AI-Behaviour-Applied
